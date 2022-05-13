@@ -1,8 +1,6 @@
 # Graph AZ Access - Microsoft Sentinel
 
-```JSON
-Introduce additional capabilities in Microsoft Sentinel by using a graph approach to identify and visualize attack paths and pivot opportunities for privilege escalation in Azure.
-```
+> Introduce additional capabilities in Microsoft Sentinel by using a graph approach to identify and visualize attack paths and pivot opportunities for privilege escalation in Azure.
 
 ## Inspiration / Short Description
 
